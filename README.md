@@ -17,3 +17,7 @@ There ’s not much to submit from here…
 2. Install this script from [Greasy Fork](https://greasyfork.org/ja/scripts/390828-atcoder-submission-radiobutton)
 
 3. Finish!
+
+or
+
+1. Install from [chrome extension](https://chrome.google.com/webstore/detail/atcoder-submission-radiob/hkehpabdllmdfmflgjofmgcdbmjafcdd)
